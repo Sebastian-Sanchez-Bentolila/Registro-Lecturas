@@ -80,10 +80,14 @@ O directamente abrí `Registro-Lecturas.exe` en la carpeta raíz (requiere Windo
 
 ## ✍️ Autor
 
-**Sebastián Sánchez Bentolila**
+**Sebastian Sanchez Bentolila**
+
 📧 [sebastiansb3004@gmail.com](mailto:sebastiansb3004@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-sanchez-bentolila/)
+
 🐱 [GitHub](https://github.com/Sebastian-Sanchez-Bentolila)
+
 📷 [Instagram](https://instagram.com/pedaleando_el_alma)
 
 ---
