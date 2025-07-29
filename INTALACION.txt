@@ -1,0 +1,51 @@
+═══════════════════════════════════════════════
+          REGISTRO DE LECTURAS - INSTALACIÓN
+═══════════════════════════════════════════════
+
+Esta aplicación está construida con Python y utiliza tecnologías estándar
+que vienen incluidas en la instalación de Python. Sigue estos sencillos pasos:
+
+1️⃣ INSTALAR PYTHON (Solo si no lo tienes)
+
+• Windows/macOS:
+  Descarga oficial: https://www.python.org/downloads/
+  ▶ Guía visual: https://youtu.be/xd_0RN2SyfI?si=SWTBXOVoqx-PqImC (Windows)
+  ▶ Guía visual: https://youtu.be/wEcTvG0BHQk?si=469vKdl9ia4zrEq0 (macOS)
+
+  ✔ IMPORTANTE: Marca "Add Python to PATH" durante la instalación
+
+• Linux (Ubuntu/Debian):
+  Abre terminal y ejecuta:
+  sudo apt update && sudo apt install python3 tk
+
+2️⃣ EJECUTAR LA APLICACIÓN
+
+• Método 1 (Recomendado):
+  - Haz doble clic en "Registro-Lecturas.exe"
+  
+• Método 2 (Desde el escritorio):
+  1. Haz clic derecho en "Registro-Lecturas.exe"
+  2. Selecciona "Enviar a" > "Escritorio (crear acceso directo)"
+  3. Ahora podrás abrirlo desde tu escritorio
+
+3️⃣ SOLUCIÓN DE PROBLEMAS COMUNES
+
+🔹 Error: "Python no se reconoce"
+  → Python no está en el PATH. Reinstala marcando la opción mencionada
+
+🔹 La aplicación no encuentra la base de datos
+  → Ejecuta siempre desde la carpeta principal (que contiene db/)
+
+🔹 Problemas con la interfaz gráfica
+  → En Linux instala tk: sudo apt install python3-tk
+
+4️⃣ ENLACES ÚTILES
+
+• Descargar Python: https://www.python.org/downloads/
+• Tutorial instalación Python: https://youtu.be/xd_0RN2SyfI?si=SWTBXOVoqx-PqImC
+• Preguntas frecuentes: [sebastiansb3004@gmail.com]
+
+═══════════════════════════════════════════════
+  💡 Consejo: Guarda esta aplicación siempre en la
+  misma ruta (ej. C:\Apps\RegistroLecturas)
+═══════════════════════════════════════════════
